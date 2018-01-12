@@ -8,6 +8,12 @@
             "email": "dschaulet@gmail.com"
         }
     ],
+    "autoload": {
+    "psr-4": 
+        {
+            "Nusoap\\": "schaulet/nusoap"
+        }
+    },	
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {}
