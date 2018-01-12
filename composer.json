@@ -1,0 +1,13 @@
+{
+    "name": "schaulet/nusoap",
+    "description": "Library to run SoapServer using Nusoap lib.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Denis Schaulet",
+            "email": "dschaulet@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
