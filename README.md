@@ -1,7 +1,7 @@
 # Install
 composer require doc-space/nusoap
 
-# Run a SoapServe
+# Run a SoapServer
 
 ```
 <?php
