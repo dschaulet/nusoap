@@ -3,6 +3,6 @@ namespace Nusoap;
 
 include('nusoap.php');
 
-class soapServer extends nusoap_server {
+class soapServer extends \nusoap_server {
 }
 ?>
